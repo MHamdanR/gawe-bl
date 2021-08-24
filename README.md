@@ -1,2 +1,2 @@
 # bukalapak
-createbukalapak
+gawe BL nich
